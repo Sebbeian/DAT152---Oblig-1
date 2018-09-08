@@ -1,3 +1,3 @@
 # DAT152---Oblig-1
 
-LES
+INNLEVERING 9.SEP 23:59
